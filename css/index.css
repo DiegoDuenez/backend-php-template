@@ -1,0 +1,11 @@
+*{
+    border-radius: 0 !important;
+}
+
+.swal2-icon, .swal2-success-ring{
+    border-radius: 50% !important;
+}
+
+.swal2-loader{
+    border-radius: 100% !important;
+}
